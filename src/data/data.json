@@ -1,0 +1,169 @@
+{
+    "data":
+    [
+        {
+            "id": 11,
+            "Type":"Sweet",
+            "data":
+            [
+                {
+                    "id": 1001,
+                    "name": "Laddu",
+                    "price": 13.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1002,
+                    "name": "Motichur",
+                    "price": 10.1,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1003,
+                    "name": "Mohanthal",
+                    "price": 10.3,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1004,
+                    "name": "Bundi Ladu",
+                    "price": 10.45,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1005,
+                    "name": "Magaj",
+                    "price": 10.55,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1006,
+                    "name": "Motaiyo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1007,
+                    "name": "Devada",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1008,
+                    "name": "Bombay Halvo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1009,
+                    "name": "Halvo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1010,
+                    "name": "Laddu",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1011,
+                    "name": "Laddu",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1012,
+                    "name": "Motichur",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1013,
+                    "name": "Mohanthal",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1014,
+                    "name": "Bundi Ladu",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1015,
+                    "name": "Magaj",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1016,
+                    "name": "Motaiyo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1017,
+                    "name": "Devada",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1018,
+                    "name": "Bombay Halvo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1019,
+                    "name": "Halvo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 1020,
+                    "name": "Laddu",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "Type":"Farsan",
+            "data":
+            [
+                {
+                    "id": 2001,
+                    "name": "Sev",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 2002,
+                    "name": "Chavanu",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 2003,
+                    "name": "Kevdo",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 2004,
+                    "name": "Tam Tum",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                },
+                {
+                    "id": 2005,
+                    "name": "Tikhi Sev",
+                    "price": 10.5,
+                    "image": "Link.jpeg"
+                }
+            ]
+        }
+    ]
+}

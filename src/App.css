@@ -1,0 +1,136 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.buttonCard{
+  position: absolute;
+  right: 0px;
+  border-radius: 60px !important;
+  margin-right: 5px;
+}
+.buttonCart{
+  height: 24px;
+  width: 24px;
+  padding: 1.5px !important;
+}
+.price{
+  height: 32px;
+  font-size: 25px;
+}
+
+li{
+  border-bottom: 1px;
+  margin: 10px 0px;
+}
+
+.selectedCard{
+  background-color: #695f5f;
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.quantity-input {
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  border-radius: 50px;
+}
+.quantity-input:focus {
+  background: red;
+}
+
+.quantity-input__modifier,
+.quantity-input__screen {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  outline: none;
+}
+
+.quantity-input__modifier {
+  padding: 0.1rem;
+  width: 1rem;
+  font-size: 0.5rem;
+  background: #f3f3f3;
+  color: #888;
+  border: 0 solid #dbdbdb;
+  text-align: center;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.6);
+  cursor: pointer;
+}
+.quantity-input__modifier:hover {
+  background: #dadada;
+  color: #555555;
+}
+.quantity-input__modifier--left {
+  border-radius: 50px 0 0 50px;
+}
+.quantity-input__modifier--right {
+  border-radius: 0 50px 50px 0;
+}
+
+.quantity-input__screen {
+  width: 1rem;
+  padding: 0.1rem;
+  font-size: 0.5rem;
+  border: 0;
+  border-top: 0 solid #dbdbdb;
+  border-bottom: 0 solid #dbdbdb;
+  text-align: center;
+}
+/* s
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: #e2e1e0;
+  color: #333;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+} */
